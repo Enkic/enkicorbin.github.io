@@ -37,8 +37,10 @@ Je propose :
 ## 🛠️ Technologies
 
 ### **Web**
-- **[Angular](https://angular-material.fusetheme.com/dashboards/project)** (avec Fuse pour Angular)
+- **Angular** (avec [Fuse](https://angular-material.fusetheme.com/dashboards/project) pour Angular)
 - **NestJS** avec une base de données **MongoDB**
+- **Heroku** pour le déploiement
+- **Gitlab** pour l'hébergement
 
 ### **Mobile**
 - **Flutter**
@@ -74,4 +76,4 @@ Un site web permettant d’administrer l’application Landing Zone avec des fon
 
 ---
 
-Merci d'avoir visité mon portfolio ! 🚀 Si vous avez des projets ou des idées, n'hésitez pas à me **[contacter](mailto:ton-email@example.com)**.
+Merci d'avoir visité mon portfolio ! 🚀 Si vous avez des projets de développement mobile, n'hésitez pas à me **[contacter](mailto:enki.corb@gmail.com)**.
