@@ -99,4 +99,4 @@ Un site web permettant d’administrer l’application Landing Zone avec des fon
   <img src="assets/imgs/lzback2.png" alt="Image 2" style="width: 45%; height: auto;">
 </div>
 
-Merci d'avoir visité mon portfolio ! 🚀 Si vous avez des projets de développement mobile, n'hésitez pas à me **[contacter](mailto:enki.corb@gmail.com)**.
+Merci d'avoir visité mon portfolio ! 🚀 Si vous avez des projets de développement mobile, n'hésitez pas à me **[contacter](mailto:enki.corb@gmail.com)** (enki.corb@gmail.com).
