@@ -6,17 +6,22 @@
 
 ## 🌟 Parcours
 
-### **Epitech**  
+### **Epitech**
+
 Diplômé du programme PGE d’Epitech, j’ai acquis des compétences solides en développement logiciel et gestion de projets.
 
-### **Yaakadev**  
+### **Yaakadev**
+
 J’ai développé des **sites web sur mesure** pour améliorer la productivité au sein des entreprises, ainsi que des **applications mobiles** pour la gestion d’équipes et des relations clients.
 
-### **Freelance**  
+### **Freelance**
+
 Depuis mes débuts en freelance, j’ai travaillé sur des projets variés dans les domaines **web** et **mobile**.
 
 ### **Ce que je propose en tant que freelance**
+
 Je propose :
+
 - **Développement d’applications mobiles** pour l’App Store et le Play Store.
 - Si nécessaire, le développement d’un **site web d’administration** pour vos applications.
 
@@ -24,56 +29,69 @@ Je propose :
 
 ## 🗓️ Mon parcours
 
-| Année         | Expérience                               |
-|---------------|------------------------------------------|
-| **2017-2022** | Études à Epitech                         |
-| **2021**      | Freelance Mobile                         |
-| **2022-2023** | Développeur chez Yaakadev                |
-| **2023-2024** | Création de l’entreprise **Landing Zone**|
-| **Maintenant**| Freelance Web et Mobile                  |
+| Année          | Expérience                                |
+| -------------- | ----------------------------------------- |
+| **2017-2022**  | Études à Epitech                          |
+| **2021**       | Freelance Mobile                          |
+| **2022-2023**  | Développeur chez Yaakadev                 |
+| **2023-2024**  | Création de l’entreprise **Landing Zone** |
+| **Maintenant** | Freelance Web et Mobile                   |
 
 ---
 
 ## 🛠️ Technologies
 
 ### **Web**
+
 - **Angular** (avec [Fuse](https://angular-material.fusetheme.com/dashboards/project) pour Angular)
 - **NestJS** avec une base de données **MongoDB**
 - **Heroku** pour le déploiement
 - **Gitlab** pour l'hébergement
 
 ### **Mobile**
+
 - **Flutter**
 
 ---
 
 ## 💼 Quelques projets freelance
 
-### **Blueprints**  
+### **Blueprints**
+
 Une application permettant de créer des actions personnalisées à la manière de Zapier, intégrée avec les raccourcis iOS.  
-📸 *[Ajouter des photos ici]*  
+📸 _[Ajouter des photos ici]_
 
 ---
 
-### **Landing Zone**  
+### **Landing Zone**
+
 Une application interactive pour jouer à des parcours d’escape games, en extérieur ou en intérieur.
 [Landing Zone](https://landingzone.app/)
-📸 *[Ajouter des photos ici]*  
+📸 _[Ajouter des photos ici]_
+
+<div style="display: flex; overflow-x: auto; gap: 5px;">
+  <img src="assets/imgs/lz1.png" alt="Image 1" style="width: 30%; height: auto;">
+  <img src="assets/imgs/lz2.png" alt="Image 2" style="width: 30%; height: auto;">
+  <img src="assets/imgs/lz3.png" alt="Image 3" style="width: 30%; height: auto;">
+</div>
 
 ---
 
-### **Through the World**  
+### **Through the World**
+
 Un jeu mobile casual où le joueur doit tenir le plus longtemps possible en affrontant des obstacles variés.  
-📸 *[Ajouter des photos ici]*  
+📸 _[Ajouter des photos ici]_
 
 ---
 
-### **Back Office Landing Zone**  
+### **Back Office Landing Zone**
+
 Un site web permettant d’administrer l’application Landing Zone avec des fonctionnalités comme :
+
 - Création de parcours
 - Génération de codes de jeux
 - Gestion des utilisateurs  
-📸 *[Ajouter des photos ici]*  
+  📸 _[Ajouter des photos ici]_
 
 ---
 
