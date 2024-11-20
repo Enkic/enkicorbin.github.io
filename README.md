@@ -6,13 +6,13 @@ Je suis développeur avec une expertise en développement web et mobile, diplôm
 
 ## 🗓️ Mon parcours
 
-| Année          | Expérience                                |
-| -------------- | ----------------------------------------- |
-| **2017-2022**  | Études à Epitech                          |
-| **2021**       | Freelance Mobile                          |
-| **2022-2023**  | Développeur chez Yaakadev                 |
-| **2023-2024**  | Création de l’entreprise **Landing Zone** |
-| **Maintenant** | Freelance Web et Mobile                   |
+| Année          | Expérience                                                            |
+| -------------- | --------------------------------------------------------------------- |
+| **2017-2022**  | Études à Epitech                                                      |
+| **2021**       | Freelance Mobile                                                      |
+| **2022-2023**  | Développeur chez Yaakadev                                             |
+| **2023-2024**  | Création de l’entreprise **[Landing Zone](https://landingzone.app/)** |
+| **Maintenant** | Freelance Web et Mobile                                               |
 
 ### **Epitech**
 
