@@ -79,7 +79,7 @@ Une application interactive pour jouer à des parcours d’escape games, en ext�
 Un jeu mobile casual où le joueur doit tenir le plus longtemps possible en affrontant des obstacles variés.
 
 <div style="display: flex; overflow-x: auto; gap: 5px;">
-  <img src="assets/imgs/ttw1.png" alt="Image 1" style="width: 30%; height: auto;">
+  <img src="assets/imgs/ttw.png" alt="Image 1" style="width: 30%; height: auto;">
   <img src="assets/imgs/ttw2.png" alt="Image 2" style="width: 30%; height: auto;">
   <img src="assets/imgs/ttw3.png" alt="Image 3" style="width: 30%; height: auto;">
 </div>
