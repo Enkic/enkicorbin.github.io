@@ -65,7 +65,6 @@ Une application permettant de créer des actions personnalisées à la manière 
 
 Une application interactive pour jouer à des parcours d’escape games, en extérieur ou en intérieur.
 [Landing Zone](https://landingzone.app/)
-📸 _[Ajouter des photos ici]_
 
 <div style="display: flex; overflow-x: auto; gap: 5px;">
   <img src="assets/imgs/lz1.png" alt="Image 1" style="width: 30%; height: auto;">
